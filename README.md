@@ -1,2 +1,2 @@
 # Hello, welcome to my website!
-My personal website can be found [here](pkakowuah.github.io)
+My personal website can be found [here](http://pkakowuah.github.io)
